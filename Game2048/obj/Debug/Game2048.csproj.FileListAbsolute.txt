@@ -1,0 +1,6 @@
+C:\Users\serpo\source\repos\ConsoleGame2048\Game2048\bin\Debug\Game2048.dll
+C:\Users\serpo\source\repos\ConsoleGame2048\Game2048\bin\Debug\Game2048.pdb
+C:\Users\serpo\source\repos\ConsoleGame2048\Game2048\obj\Debug\Game2048.csprojAssemblyReference.cache
+C:\Users\serpo\source\repos\ConsoleGame2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+C:\Users\serpo\source\repos\ConsoleGame2048\Game2048\obj\Debug\Game2048.dll
+C:\Users\serpo\source\repos\ConsoleGame2048\Game2048\obj\Debug\Game2048.pdb

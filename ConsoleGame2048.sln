@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGame2048", "ConsoleGame2048\ConsoleGame2048.csproj", "{A39535AE-2B6B-42A3-B86F-820A4FA36D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "Game2048\Game2048.csproj", "{9B0F0A17-B358-4E11-A600-1584CDCECB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39535AE-2B6B-42A3-B86F-820A4FA36D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39535AE-2B6B-42A3-B86F-820A4FA36D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39535AE-2B6B-42A3-B86F-820A4FA36D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39535AE-2B6B-42A3-B86F-820A4FA36D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0F0A17-B358-4E11-A600-1584CDCECB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0F0A17-B358-4E11-A600-1584CDCECB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0F0A17-B358-4E11-A600-1584CDCECB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0F0A17-B358-4E11-A600-1584CDCECB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7C6E82-4575-4037-9163-96CF0D123265}
+	EndGlobalSection
+EndGlobal
