@@ -39,11 +39,11 @@ namespace Game2048
 
         public int GetMap(int x, int y)
         {
-            return 0;
+            return -1;
         }
         public bool IsGameOver()
         {
-            return IsGameOver;
+            return isGameOver;
         }
     }
 }

@@ -5,6 +5,7 @@ namespace ConsoleGame2048
 {
     class Program
     {
+        //comment
         static void Main(string[] args)
         {
             Program program = new Program();
@@ -44,10 +45,10 @@ namespace ConsoleGame2048
                     Console.WriteLine(number == 0 ? " " : number.ToString());
                 }
             Console.WriteLine();
-            if (model.isGameOver)
-                Console.WriteLine("Game Over");
-            else
+            if (model.IsGameOver())
                 Console.WriteLine("Still play");
-         }
+            else
+                Console.WriteLine("Game Over");
+        }
     }
 }
